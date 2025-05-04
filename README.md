@@ -2,9 +2,9 @@
 <p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
 
-This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
+本模组不隶属于Among Us或Innersloth LLC，其中包含的财产也未经过Innersloth LLC的认可或其他方式的赞助。其中包含的部分材料是Innersloth LLC的资产。 © Innersloth LLC.</p>
 <p align="center">
-  To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a></p>
+  对于其他模组开发者：如果您需要使用我们的代码，请阅读并尊重<a href="#license">许可证</a></p>
 
 [![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
 ![eisbison infographic](./Images/TOR_Roles.png)
